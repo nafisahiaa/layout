@@ -1,0 +1,75 @@
+.logo{
+    height: 80px;
+    background-color: gray;
+    margin-bottom: 10px;
+    
+}
+.header{
+    height: 100px;
+    background-color: brown;
+    margin-bottom: 30px;
+}
+.h1{
+    color: white;
+    text-align: center;
+    
+}
+.navigation{
+    overflow:hidden;
+    
+}
+.single{
+    height: 100px;
+    width: 24.05%;
+    float: left;
+    margin-bottom: 30px;
+}
+.a1{
+    background-color: aqua; 
+    margin-right: 15px;
+}
+.a2{
+    background-color: antiquewhite;
+    margin-right: 15px;
+}
+.a3{
+    background-color: aquamarine;
+    margin-right: 15px;
+}
+.a4{
+    background-color: beige;
+    
+}
+.container{
+    overflow: hidden;
+}
+.about{
+    height: 500px;
+    width: 49%;
+    background-color: royalblue;
+    float: left;
+    margin-right: 23px;
+}
+.box{
+    height: 500px;
+    width: 49%;
+    background-color: white;
+    float: left;
+}
+.l1{
+    height: 230px;
+    background-color: aqua;
+    margin-bottom: 40px;
+    
+}
+.l2{
+    height: 230px;
+    background-color: lime;
+    
+}
+.footer{
+    height: 100px;
+    background-color: saddlebrown;
+    margin-top: 30px;
+}
+

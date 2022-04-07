@@ -1,0 +1,40 @@
+.logo{
+    height: 150px;
+    background-color: gray;
+}
+.navi{
+    height: 100px;
+    background-color: aqua;
+    margin-top: 30PX;
+}
+.header{
+    height: 300px;
+    background-color: crimson;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.conteiner{
+    overflow: hidden;
+}
+.box{
+    height: 500px;
+    width: 33%;
+    text-align: center;
+    float: left;
+}
+.box1{
+    background-color: chartreuse;
+    margin-right: 9px;
+}
+.box2{
+    background-color: darkgreen;
+    margin-right: 9px;
+}
+.box3{
+    background-color: lime;
+}
+.footer{
+    height: 100px;
+    background-color: crimson;
+}

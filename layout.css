@@ -1,0 +1,47 @@
+.logo{
+    height: 150px;
+    background-color: gray;
+   
+   
+}
+
+.navi{
+    height: 100px;
+    background-color: aqua;
+    margin-top: 30PX;
+}
+.center{
+    line-height: 150px;
+}
+.header{
+    height: 300px;
+    background-color: crimson;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align:center;
+    
+     
+}
+.conteiner{
+    overflow: hidden;
+}
+.sidebar{
+    height: 700px;
+    background-color: lime;
+    width: 29.30%;
+    margin-right: 10px;
+    float: left;
+    text-align: center;
+}
+.body{
+    height: 700px;
+    width: 70%;
+    background-color: darkgreen;
+    float: left;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    background-color: crimson;
+    text-align: center;
+}

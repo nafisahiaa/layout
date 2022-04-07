@@ -1,0 +1,50 @@
+.head{
+    height: 200px;
+    background-color: white;
+    
+   
+}
+.logo{
+    height: 200px;
+    width: 50%;
+    float: left;
+    background-color: brown;
+    
+}
+.navigation{
+    height: 200px;
+    width: 50%;
+    float: left;
+    background-color: brown;
+    text-align: right;
+}
+.conteiner{
+    overflow: hidden;
+    margin-bottom: 30px;
+    background-color: white;
+}
+.sidebar{
+    height: 800px;
+    width: 29%;
+    float: left;
+    background-color:orchid;
+    margin-right: 1%;
+}
+.box{
+    height: 800px;
+    width: 70%;
+    float: left;
+    background-color: antiquewhite;
+}
+.header{
+    height: 300px;  
+    background-color: chocolate;
+}
+.bodyarea{
+    height: 500px;    
+    background-color: darkgoldenrod;
+}
+.footer{
+    height: 100px;
+    background-color: brown;
+}
